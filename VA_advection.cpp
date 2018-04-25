@@ -67,7 +67,7 @@ int main(){
       y_viejo[i]= y_nuevo[i];
     }
     
-   if (j%700/4==0){
+   if (j*700/4==0){
      
      // Se imprimen los 5 snapshots
       
